@@ -4,3 +4,6 @@
 (done) 3 <title> added
 (done) 4 deleted pictures of text, replaced by actual text
 (done) 5 changed alt attribute for images 
+(done) 6 lang attribute changedto en
+(done) 7 black hat SEO eliminated
+(done) 8 contrast increased
