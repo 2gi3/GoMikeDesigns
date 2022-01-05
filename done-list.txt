@@ -7,3 +7,5 @@
 (done) 6 lang attribute changedto en
 (done) 7 black hat SEO eliminated
 (done) 8 contrast increased
+(done) <h> hierarky fixed
+(done) links fixed but need social media to align
