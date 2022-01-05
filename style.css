@@ -267,6 +267,7 @@ a:hover {
 .black{
     color: #000000 !important;
     text-align: center;
+    font-size: 15px;
 }
 
 .d-bloc .panel .btn-wire,
