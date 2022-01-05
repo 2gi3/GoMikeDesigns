@@ -136,6 +136,8 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgb(255, 255, 255);
+    min-width: 48px;
+    min-height: 48px;
 }
 
 .d-bloc .a-btn:hover,
@@ -714,6 +716,7 @@ p {
 }
 
 .social {
+   
     max-width: 400px;
     margin: auto auto auto auto;
 }
