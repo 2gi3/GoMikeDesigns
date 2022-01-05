@@ -1,1 +1,4 @@
 (done) 1 compressed pictures
+(done) 2 loading="lazy" added to img
+(done) 2 meta keywords changed
+(done) 3 <title> added
