@@ -259,6 +259,16 @@ a:hover {
     color: rgba(0, 0, 0, .6);
 }
 
+.quote {
+    color: #000000 !important;
+    font-style: italic;
+    font-size: 16px!important;
+}
+.quote-footer{
+    color: #000000 !important;
+    font-size: 16px!important;
+
+}
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover,
 .l-bloc .btn-wire,
