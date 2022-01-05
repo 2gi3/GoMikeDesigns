@@ -10,3 +10,4 @@
 (done) 9 <h> hierarky fixed
 (done) 10 links fixed but need social media to align
 (done) 11 (SEO) tap targets height increased
+(done) 12 <script> moved to bottom of <body>
