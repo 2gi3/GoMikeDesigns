@@ -259,12 +259,12 @@ a:hover {
     color: rgba(0, 0, 0, .6);
 }
 
-.quote {
+#quote {
     color: #000000 !important;
     font-style: italic;
     font-size: 16px!important;
 }
-.quote-footer{
+#quote-footer{
     color: #000000 !important;
     font-size: 16px!important;
 
