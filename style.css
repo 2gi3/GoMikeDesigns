@@ -273,6 +273,7 @@ a:hover {
     font-size: 15px;
 }
 
+}
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover,
 .l-bloc .btn-wire,
@@ -718,8 +719,9 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 1.1em;
+    font-size: 1.3em;
     font-weight: 800;
+    letter-spacing: 1px;
 }
 
 .social {
